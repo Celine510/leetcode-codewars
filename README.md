@@ -15,6 +15,7 @@ Mostly JavaScript with a little TypeScript.
 ## 6kyu
 | #  | Title | Solution |
 |----|-------|----------|
+| 14  | [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738/javascript) | [Link](./codewars/6kyu/good-vs-evil.md) |
 | 13  | [Weird String Case](https://www.codewars.com/kata/52b757663a95b11b3d00062d/javascript) | [Link](./codewars/6kyu/weird-string-case.md) |
 | 12 | [Build a Pile of Cubes](https://www.codewars.com/kata/5592e3bd57b64d00f3000047/javascript) | [Link](./codewars/6kyu/build-a-pile-of-cubes.md) |
 | 11 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c/javascript) | [Link](./codewars/6kyu/duplicate-encoder.md) |
