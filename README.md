@@ -15,6 +15,8 @@ Mostly JavaScript with a little TypeScript.
 ## 6kyu
 | #  | Title | Solution |
 |----|-------|----------|
+| 16  | [The Office V - Find a Chair](https://www.codewars.com/kata/57f6051c3ff02f3b7300008b/javascript) | [Link](./codewars/6kyu/the-office-v-find-a-chair.md) |
+| 15  | [Vowel Shifting](https://www.codewars.com/kata/577e277c9fb2a5511c00001d/javascript) | [Link](./codewars/6kyu/vowel-shifting.md) |
 | 14  | [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738/javascript) | [Link](./codewars/6kyu/good-vs-evil.md) |
 | 13  | [Weird String Case](https://www.codewars.com/kata/52b757663a95b11b3d00062d/javascript) | [Link](./codewars/6kyu/weird-string-case.md) |
 | 12 | [Build a Pile of Cubes](https://www.codewars.com/kata/5592e3bd57b64d00f3000047/javascript) | [Link](./codewars/6kyu/build-a-pile-of-cubes.md) |
