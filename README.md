@@ -35,6 +35,7 @@ Mostly JavaScript with a little TypeScript.
 ## 7kyu
 | # | Title | Solution |
 |---|-------|----------|
+| 4 | [Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/javascript) | [Link](./codewars/7kyu/make-a-function-that-does-arithmetic.md)|
 | 3 | [Character Counter](https://www.codewars.com/kata/56786a687e9a88d1cf00005d/javascript) | [Link](./codewars/7kyu/character-counter.md)|
 | 2 | [Growth of a Population](https://www.codewars.com/kata/563b662a59afc2b5120000c6/javascript) | [Link](./codewars/7kyu/growth-of-a-population.md)|
 | 1 | [Number of People in the Bus](https://www.codewars.com/kata/5648b12ce68d9daa6b000099/javascript) | [Link](./codewars/7kyu/number-of-people-in-the-bus.md)|
