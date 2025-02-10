@@ -4,6 +4,13 @@ Mostly JavaScript with a little TypeScript.
 
 ![](https://www.codewars.com/users/Celine10/badges/large)
 
+# LeetCode
+| #  | Title | Solution | Difficulty |
+|----|-------|----------|------------|
+| 2626. | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/?envType=study-plan-v2&envId=30-days-of-javascript) | [Link](./leetcode/2626.array-reduce-transformation.md) | Easy |
+| 2634. | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/submissions/1537775097/?envType=study-plan-v2&envId=30-days-of-javascript) | [Link](./leetcode/2634.filter-elements-from-array.md) | Easy |
+| 2635. | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Link](./leetcode/2635.apply-transform-over-each-element-in-array.md) | Easy |
+
 # Codewars
 
 ## 5kyu
@@ -15,6 +22,7 @@ Mostly JavaScript with a little TypeScript.
 ## 6kyu
 | #  | Title | Solution |
 |----|-------|----------|
+| 18  | [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/javascript) | [Link](./codewars/6kyu/find-the-unique-number.md) |
 | 17  | [Converting Measures](https://www.codewars.com/kata/5acfab8d23c81836c90000eb/javascript) | [Link](./codewars/6kyu/converting-measures.md) |
 | 16  | [The Office V - Find a Chair](https://www.codewars.com/kata/57f6051c3ff02f3b7300008b/javascript) | [Link](./codewars/6kyu/the-office-v-find-a-chair.md) |
 | 15  | [Vowel Shifting](https://www.codewars.com/kata/577e277c9fb2a5511c00001d/javascript) | [Link](./codewars/6kyu/vowel-shifting.md) |
