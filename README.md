@@ -22,6 +22,7 @@ Mostly JavaScript with a little TypeScript.
 ## 6kyu
 | #  | Title | Solution |
 |----|-------|----------|
+| 19  | [Message Validator](https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc/javascript) | [Link](./codewars/6kyu/message-validator.md) |
 | 18  | [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/javascript) | [Link](./codewars/6kyu/find-the-unique-number.md) |
 | 17  | [Converting Measures](https://www.codewars.com/kata/5acfab8d23c81836c90000eb/javascript) | [Link](./codewars/6kyu/converting-measures.md) |
 | 16  | [The Office V - Find a Chair](https://www.codewars.com/kata/57f6051c3ff02f3b7300008b/javascript) | [Link](./codewars/6kyu/the-office-v-find-a-chair.md) |
