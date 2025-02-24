@@ -7,25 +7,26 @@ Mostly JavaScript with a little TypeScript.
 
 # LeetCode
 
-| #     | Title                                                                                                                                                                              | Solution                                                           | Difficulty |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------- |
+| #     | Title | Solution | Difficulty |
+| ----- | ----- | -------- | ---------- |
 | 2626. | [Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation/?envType=study-plan-v2&envId=30-days-of-javascript)                                           | [Link](./leetcode/2626.array-reduce-transformation.md)                | Easy       |
 | 2634. | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/submissions/1537775097/?envType=study-plan-v2&envId=30-days-of-javascript)                      | [Link](./leetcode/2634.filter-elements-from-array.md)                 | Easy       |
 | 2635. | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Link](./leetcode/2635.apply-transform-over-each-element-in-array.md) | Easy       |
+| 2704. | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Link](./leetcode/2704.to-be-or-not-to-be.md) | Easy       |
 
 # Codewars
 
 ## 5kyu
 
-| # | Title                                                                                                | Solution                                                   |
-| - | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| # | Title | Solution |
+| - | ----- | -------- |
 | 2 | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b/javascript) | [Link](./codewars/5kyu/extract-the-domain-name-from-a-url.md) |
 | 1 | [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a/javascript) | [Link](./codewars/5kyu/product-of-consecutive-fib-numbers.md) |
 
 ## 6kyu
 
-| #  | Title                                                                                                                                               | Solution                                                                                             |
-| -- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| # | Title | Solution |
+| - | ----- | -------- |
 | 19 | [Message Validator](https://www.codewars.com/kata/5fc7d2d2682ff3000e1a3fbc/javascript)                                                                 | [Link](./codewars/6kyu/message-validator.md)                                                            |
 | 18 | [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235/javascript)                                                            | [Link](./codewars/6kyu/find-the-unique-number.md)                                                       |
 | 17 | [Converting Measures](https://www.codewars.com/kata/5acfab8d23c81836c90000eb/javascript)                                                               | [Link](./codewars/6kyu/converting-measures.md)                                                          |
@@ -48,8 +49,8 @@ Mostly JavaScript with a little TypeScript.
 
 ## 7kyu
 
-| # | Title                                                                                                   | Solution                                                     |
-| - | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| # | Title | Solution |
+| - | ----- | -------- |
 | 5 | [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/train/javascript)                    | [Link](./codewars/7kyu/sort-numbers.md)                         |
 | 4 | [Make a function that does arithmetic!](https://www.codewars.com/kata/583f158ea20cfcbeb400000a/javascript) | [Link](./codewars/7kyu/make-a-function-that-does-arithmetic.md) |
 | 3 | [Character Counter](https://www.codewars.com/kata/56786a687e9a88d1cf00005d/javascript)                     | [Link](./codewars/7kyu/character-counter.md)                    |
@@ -58,6 +59,6 @@ Mostly JavaScript with a little TypeScript.
 
 ## 8kyu
 
-| # | Title                                                                                                   | Solution                                                      |
-| - | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| # | Title | Solution |
+| - | ----- | -------- |
 | 1 | [Find the first non-consecutive number](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/javascript) | [Link](./codewars/8kyu/find-the-first-non-consecutive-number.md) |
