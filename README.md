@@ -13,6 +13,7 @@ Mostly JavaScript with a little TypeScript.
 | 2634. | [Filter Elements from Array](https://leetcode.com/problems/filter-elements-from-array/submissions/1537775097/?envType=study-plan-v2&envId=30-days-of-javascript)                      | [Link](./leetcode/2634.filter-elements-from-array.md)                 | Easy       |
 | 2635. | [Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Link](./leetcode/2635.apply-transform-over-each-element-in-array.md) | Easy       |
 | 2704. | [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/description/?envType=study-plan-v2&envId=30-days-of-javascript) | [Link](./leetcode/2704.to-be-or-not-to-be.md) | Easy       |
+| 2727. | [Is Object Empty](https://leetcode.com/problems/is-object-empty/?envType=study-plan-v2&envId=30-days-of-javascript) | [Link](./leetcode/2727.is-object-empty.md) | Easy       |
 
 # Codewars
 
